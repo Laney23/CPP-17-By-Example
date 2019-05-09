@@ -11,5 +11,4 @@ void main()
     int dice = (rand() % 6) + 1;
     
     cout << "Dice: " << dice << endl;
-    cout << "Hello, world!" << endl;
 }
